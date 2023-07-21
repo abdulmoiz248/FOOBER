@@ -1,0 +1,4 @@
+Lasani Burger %Burger%200 %Pizza%1100 %Shawarma%190
+My Burger %Anda Shami Burger%110 %Pizza Burger%250 %Paratha roll %170
+Burger King %Burger%170 %Burger King Premium %300 %Burger roll %180
+KFC %Cruch Burger%400 %Bucket of Chicken%700 %Mighty Zinger %620
