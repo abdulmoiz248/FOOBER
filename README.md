@@ -40,7 +40,10 @@ Welcome to FOOBER, a revolutionary startup concept that redefines the dining exp
 
 5. **Dine-In Experience:**
    - Arrive at the restaurant and find your reserved table with your meal ready to be served.
-
+## Technologies Used
+- **Programming Language:** Java
+- **GUI Framework:** JavaFX
+  
 ## Contributors
 - Abdul Moiz
 ## Visuals
